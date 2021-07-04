@@ -1,0 +1,25 @@
+{
+  "name": "mappy-thing",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@swc/core": "^1.2.62",
+    "@types/lodash": "^4.14.170",
+    "@types/seedrandom": "^3.0.0",
+    "html-webpack-plugin": "^5.3.2",
+    "swc-loader": "^0.1.14",
+    "ts-loader": "^9.2.3",
+    "typescript": "^4.3.5",
+    "webpack": "^5.42.0",
+    "webpack-cli": "^4.7.2",
+    "webpack-dev-server": "^3.11.2"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "seedrandom": "^3.0.5"
+  }
+}
